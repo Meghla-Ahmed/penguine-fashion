@@ -1,0 +1,89 @@
+
+body{
+  font-family: 'Imbue', serif;
+  color: black;
+}
+.nav-link{
+  font-size: 50px;
+
+}
+.row{
+  margin-top: 20px;
+}
+#first-part{
+  padding: 50px;
+}
+.winter{
+color: rgb(15, 15, 48);
+}
+.container-fluid{
+  background-color: cornsilk;
+}
+.container-nav{
+  background-color: cornsilk;
+  padding: 50px;
+}
+.img-fluid{
+  background-color: cornflowerblue;
+}
+
+.btn-default
+{
+background-color: rgb(102, 138, 30);
+width: 100px;
+color:#FFF;
+border-color: none;
+
+}
+h1{
+color: orange;
+font-size: 70px;
+}
+h2{
+padding: 50px;
+}
+
+.buy-now{
+display: flex;
+justify-content: space-around;
+}
+.img-icon{
+width: 50px;
+height: 50px;
+}
+/*.row-contact{
+display:flex;
+}*/
+#cart{
+width: 400px;
+height: 250px;
+}
+.container-contact{
+margin-top: 50px;
+}
+.cart-img{
+width: 500px;
+height: 300px;
+}
+.card{
+margin-bottom: 10px;
+}
+
+
+.card-cart{
+  margin-bottom: 5px;
+  border-radius: 20px;
+}
+.cards{
+  padding: 50px;
+  height: 400px;
+  background-color: rgb(248, 242, 242);
+  border-radius: 30px;
+}
+.card-img-top {
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+  object-fit: cover;
+}
